@@ -12,3 +12,5 @@ We can add laboratory section, pharmacy section and room availablity feature in 
 # Credits
 It was a semester project with my partner Gufran Bhatii https://github.com/GufranBhatti 
 We took help from google and youtube for reference.
+# How to contribute to project
+Our project is very basic and it can be used as a skeleton to develop a far more mature and practical Hospital Management System by adding room, pharmacy and other essential modules a hospital has.
