@@ -9,3 +9,6 @@ We can add laboratory section, pharmacy section and room availablity feature in 
 1. You need to have visual studio (c# environment) and Sql Management Studio installed in your system.
 2. You need to run the queries in 'project queries' file in SQL Management Studio to create database and tables. 
 3. And in the end you just need to update connection string in project file according to your PC.
+# Credits
+It was a semester project with my partner Gufran Bhatii https://github.com/GufranBhatti 
+We took help from google and youtube for reference.
